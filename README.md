@@ -24,7 +24,11 @@ Este proyecto es una aplicación de consola en C# que permite redactar informes,
 
 ## 📌 Autores
 
--Miguel Alejandro Vásquez Lara - A00109487
--Anthony Liriano Araujo - A00112515
--Alina Marina Hermon Castro - A00116790
--Pablo Berroa Heredia - A00105809
+Miguel Alejandro Vásquez Lara - A00109487
+
+Anthony Liriano Araujo - A00112515
+
+Alina Marina Hermon Castro - A00116790
+
+Pablo Berroa Heredia - A00105809
+
