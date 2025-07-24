@@ -18,7 +18,7 @@ Este proyecto es una aplicación de consola en C# que permite redactar informes,
 - **Lenguaje:** C# (.NET)
 - **Protocolo:** FTP (sin SSL)
 - **Plataforma:** Aplicación de consola
-- **Entorno de pruebas:** Red local con IP asignada al servidor FTP (ej. `10.0.0.23`)
+- **Entorno de pruebas:** Red local con IP asignada al servidor FTP
 
 ---
 
