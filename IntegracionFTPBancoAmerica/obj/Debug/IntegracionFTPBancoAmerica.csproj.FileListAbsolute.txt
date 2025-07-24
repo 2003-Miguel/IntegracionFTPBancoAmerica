@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\bin\Debug\IntegracionFTPBancoAmerica.exe.config
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\bin\Debug\IntegracionFTPBancoAmerica.exe
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\bin\Debug\IntegracionFTPBancoAmerica.pdb
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\obj\Debug\IntegracionFTPBancoAmerica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\obj\Debug\IntegracionFTPBancoAmerica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\obj\Debug\IntegracionFTPBancoAmerica.exe
+C:\Users\Usuario\Downloads\Ejemplo\IntegracionFTPBancoAmerica\IntegracionFTPBancoAmerica\obj\Debug\IntegracionFTPBancoAmerica.pdb
